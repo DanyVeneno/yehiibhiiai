@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="192"
+   height="32"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <text
+     xml:space="preserve"
+     style="font-style:oblique;font-weight:900;font-size:24.4773px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std Heavy Oblique';fill:#333333;stroke-width:24.7454;stroke-linejoin:round"
+     x="-3.182024"
+     y="24.811829"
+     id="text1"><tspan
+       sodipodi:role="line"
+       id="tspan1"
+       x="-3.182024"
+       y="24.811829"
+       style="stroke-width:24.7454"><tspan
+   style="fill:#ececec;stroke-width:24.7454"
+   id="tspan5">YEHIIB</tspan><tspan
+   style="fill:#84cc16;fill-opacity:1;stroke-width:24.7454"
+   id="tspan2">HI</tspan><tspan
+   style="fill:#e6e6e6;stroke-width:24.7454"
+   id="tspan7">I</tspan><tspan
+   style="fill:#84cc16;fill-opacity:1;stroke-width:24.7454"
+   id="tspan3">.</tspan> <tspan
+   style="fill:#e6e6e6;stroke-width:24.7454"
+   id="tspan6">A.I.</tspan></tspan></text>
+</svg>
