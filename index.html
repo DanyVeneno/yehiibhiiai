@@ -30,6 +30,10 @@
     />
     <meta name="msapplication-TileColor" content="#00a300" />
     <meta name="theme-color" content="#ffffff" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,1,0"
+    />
 
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -39,9 +43,11 @@
     />
     <script src="js/script.js" defer></script>
     <script src="js/card.js" defer></script>
+    <script src="js/scroll-button.js" defer></script>
     <link rel="stylesheet" href="css/style.css" />
     <link rel="stylesheet" href="css/card.css" />
     <link rel="stylesheet" href="css/starts.css" />
+    <link rel="stylesheet" href="css/scroll-button.css" />
 
     <title>Yehiibhii A.I. | Yehiibhii Estudio</title>
   </head>
@@ -104,6 +110,14 @@
             </button>
           </div>
         </nav>
+        <button
+          onclick="scrollToTop()"
+          id="scroll-top-button"
+          class="scroll-top-button"
+          type="button"
+        >
+          <span class="material-symbols-outlined"> arrow_upward </span>
+        </button>
 
         <!-- Mobile Menu -->
         <div
