@@ -914,7 +914,11 @@ h5 {
   transition: all 0.25s;
   position: relative;
 }
-
+#thitulo {
+  color: #84cc16;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
+}
 .hamburger-top,
 .hamburger-middle,
 .hamburger-bottom {
